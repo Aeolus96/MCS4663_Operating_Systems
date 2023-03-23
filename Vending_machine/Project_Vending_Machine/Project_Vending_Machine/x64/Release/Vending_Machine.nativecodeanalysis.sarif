@@ -1,0 +1,43 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.32.31329.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/devso/documents/github/mscs-stuff/vending_machine.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "d293b567ad452995797db2471d45b188ed6e5378332c023eb2906f8a1705864f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/devso/documents/github/mscs-stuff/definitions.h"
+          },
+          "hashes": {
+            "sha-256": "6286ced0d655c254bfb188922e17bb6f7ff7ea13d770b41297daf9209e81b20a"
+          }
+        }
+      ]
+    }
+  ]
+}

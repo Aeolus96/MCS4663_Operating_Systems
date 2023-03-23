@@ -1,0 +1,2 @@
+C:\Users\devso\source\repos\Project_Vending_Machine\x64\Release\Project_Vending_Machine.exe.lastcodeanalysissucceeded
+C:\Users\devso\source\repos\Project_Vending_Machine\Project_Vending_Machine\x64\Release\NativeCodeAnalysis.read.1.tlog
